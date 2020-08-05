@@ -38,10 +38,14 @@ This projects aim is to generate as much of the targets.json file as possible.
 
 By iterating all of an oclif cli's topics and find all commands.
 
+![oclif-commands](https://user-images.githubusercontent.com/11463275/89427153-ec285d80-d708-11ea-827c-26930471035c.png)
+
 It will also try to present all possible flags that can be used for the cli.
 
-Lastly it will ask for what api's
+![flag-example](https://user-images.githubusercontent.com/11463275/89427158-edf22100-d708-11ea-962b-1a5dce2f94fc.png)
 
-Scenerio data that could be used.
+Lastly it will ask for 
+1) external api's 
+2) scenerio data
 
 The hope is that the builder of the cli will be able to quickly test all of their endpoints if they came late to a project that did not implement testing or forgot to test along the way.
