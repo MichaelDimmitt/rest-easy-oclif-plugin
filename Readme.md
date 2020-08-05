@@ -49,3 +49,6 @@ Lastly it will ask for
 2) scenerio data
 
 The hope is that the builder of the cli will be able to quickly test all of their endpoints if they came late to a project that did not implement testing or forgot to test along the way.
+
+## Alternate project goal, 
+Look at rest apis with json specs and auto generate write all of the endpoints.
